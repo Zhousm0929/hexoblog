@@ -2,8 +2,9 @@
 title: "Typography"
 date: 2018-09-29T11:36:33+08:00
 draft: false
-cover_image: http://pic.drafff.art//drafff/20200315170651.png
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+photos: http://pic.drafff.art//drafff/20200318193820.png
 tags: 
   - Demo
   - Typography

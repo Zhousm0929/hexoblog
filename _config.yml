@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: hexo
+title: space
 subtitle: 'new space'
 description: ''
 keywords:
@@ -44,13 +44,14 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+
 highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
+  enable: false
+  # line_number: true
+  # auto_detect: false
+  # tab_replace: ''
+  # wrap: true
+  # hljs: false
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -93,7 +94,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: edinburgh
+theme: clover
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -101,9 +102,8 @@ deploy:
   type: ''
 
 
+
   # Header
 menu:
   About: /about
-  Contact: /contact
-  GITHUB: https://github.com/Drafffffff
-  TWITTER: https://twitter.com/ub19w9Bmgwpme7b
+
